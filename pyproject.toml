@@ -31,7 +31,7 @@ pytest-asyncio = "^0.23.5"
 sentry-sdk = {extras = ["fast-api"], version = "^1.40.6"}
 pyright = "^1.1.354"
 packaging = ">=24.0"
-gitpython = "^3.1.42"
+gitpython = "^3.1.58"
 tiktoken = "^0.7.0"
 google-cloud = "^0.34.0"
 google-auth = "^2.29.0"
